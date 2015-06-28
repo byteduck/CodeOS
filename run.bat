@@ -1,0 +1,1 @@
+qemu-system-i386 -kernel os_image.bin
